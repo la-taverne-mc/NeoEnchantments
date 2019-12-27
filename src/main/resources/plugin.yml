@@ -1,0 +1,11 @@
+api: none
+api-version: "1.14"
+name: NeoEnchantments
+version: "1.0"
+author: PoC4
+main: fr.neolithic.neoenchantments.Main
+commands:
+  test:
+    description: test
+    permission: neoenchantments.test
+    default: op
